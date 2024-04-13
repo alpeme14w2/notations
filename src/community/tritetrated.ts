@@ -29,6 +29,6 @@ export class TritetratedNotation extends Notation {
         high = mid;
       }
     }
-    return `${low.toFixed(4)}↑↑3`;
+    return `${low.toFixed(99)}↑↑3`;
   }
 }

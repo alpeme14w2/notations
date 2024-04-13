@@ -25,7 +25,7 @@ const ELEMENT_LISTS = [
     "No", "Lr", "Rf", "Db", "Sg", "Bh", "Hs", "Mt",
     "Ds", "Rg", "Cn", "Nh", "Fl", "Mc", "Lv", "Ts"
   ],
-  ["Og"]
+  ["Og","E119","E120","E121","E122","E123","E124","E125"]
 ];
 
 export class ElementalNotation extends Notation {
